@@ -3,6 +3,9 @@
 #### 介绍
 生命体征检测仪，温度，心率，血氧饱和度，血氧波形
 
+本项目在Gitee上：
+https://gitee.com/chenxi2000/heart-rate-spo2
+
 #### 软件架构
 下位机硬件部分：树莓派Pico 使用Arduino IDE编程
 上位机软件部分：Python 使用DearpyGui框架绘制桌面客户端
