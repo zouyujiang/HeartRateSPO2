@@ -19,13 +19,13 @@
 1.  MAX30102连接单片机4，5引脚，4->SDA，5->SCL
 ![输入图片说明](HeartRate_SPO2/image/MAX30102.png)
 
+#### 演示
+![输入图片说明](HeartRate_SPO2/image/%E6%88%AA%E5%9B%BE1.png)
+![输入图片说明](HeartRate_SPO2/image/%E6%88%AA%E5%9B%BE2.png)
+
 #### 参与贡献
 
 1.  Fork 本仓库
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
-#### 演示
-![输入图片说明](HeartRate_SPO2/image/%E6%88%AA%E5%9B%BE1.png)
-![输入图片说明](HeartRate_SPO2/image/%E6%88%AA%E5%9B%BE2.png)
