@@ -4,20 +4,20 @@
 生命体征检测仪，温度，心率，血氧饱和度，血氧波形
 
 #### 软件架构
-软件架构说明
+下位机硬件部分：树莓派Pico 使用Arduino IDE编程
+上位机软件部分：Python 使用DearpyGui框架绘制桌面客户端
 
 
-#### 安装教程
+#### 运行教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  给单片机下载程序
+2.  打开上位机软件代码，修改COM口
+3.  运行上位机代码
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  MAX30102连接单片机4，5引脚，4->SDA，5->SCL
+![输入图片说明](HeartRate_SPO2/image/MAX30102.png)
 
 #### 参与贡献
 
@@ -26,12 +26,6 @@
 3.  提交代码
 4.  新建 Pull Request
 
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 演示
+![输入图片说明](HeartRate_SPO2/image/%E6%88%AA%E5%9B%BE1.png)
+![输入图片说明](HeartRate_SPO2/image/%E6%88%AA%E5%9B%BE2.png)
